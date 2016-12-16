@@ -1,3 +1,3 @@
 <header class='header font-dosis'>
-	<span>header</span>
+	<span>HEADER</span>
 </header>
